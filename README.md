@@ -5,6 +5,7 @@ We are proven staking provider and blockchain validator company.
 Follow us on Twitter: https://twitter.com/denodesxyz.
 
 Our website: http://denodes.xyz/
+
 Contact: denodes.core@gmail.com.
 
 <!---
