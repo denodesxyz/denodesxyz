@@ -1,4 +1,4 @@
-Welcome to the deNodes Github page! 👋
+Welcome to the [deNodes Github](https://github.com/denodesxyz)! 👋
 
 We are proven staking provider and blockchain validator company. Follow us on our Twitter page [here](https://twitter.com/denodesxyz) and visit our [website](http://denodes.xyz/) for more details.
 
