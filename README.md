@@ -2,7 +2,7 @@
 
 ## What is deNodes?
 We are proven staking provider and blockchain validator company. We provide technical support and consulting to early-stage blockchain and Web3 startups.
-Follow us on our Twitter page [here](https://twitter.com/denodesxyz) and visit our [website](http://denodes.xyz/) for more details.
+Follow us on our [Twitter](https://twitter.com/denodes_) and visit our [website](http://denodes.xyz/) for more details.
 
 ## deNodes Hub
 Open-source resource designed for educational purposes and available for a detailed dive into the technical part of blockchain. 
