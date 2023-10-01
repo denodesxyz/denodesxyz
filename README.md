@@ -6,13 +6,13 @@ Follow us on our [Twitter](https://twitter.com/_denodes) and visit our [Website]
 
 ## deNodes Hub
 Open-source resource designed for educational purposes and available for a detailed dive into the technical part of blockchain. 
-- Discover all the stack on [deNodes Hub](https://hub.denodes.xyz) (_WIP_).
+- Discover all the stack on [deNodes Hub](https://hub.denodes.xyz).
 
 ## Partnerships & Collaborations
-Please **contact us** via email: denodes.core@gmail.com. 
+Please contact us via email denodes.core@protonmail.com or fill out the form [here](https://forms.gle/c4mMGyikFUQVJZEA7).
 
 ## Our resources
-[Website](denodes.xyz) **/** [Twitter](https://twitter.com/denodesxyz) **/** [Telegram](https://t.me/denodes) **/** [Medium](medium.com/@denodes)
+[Website](denodes.xyz) **/** [Hub](hub.denodes.xyz) **/** [Twitter](https://twitter.com/_denodes) **/** [Telegram](https://t.me/denodes) **/** [Medium](medium.com/@denodes)
 
 ---
 *Regards, deNodes Team!* 🖤
