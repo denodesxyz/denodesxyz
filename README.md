@@ -12,7 +12,7 @@ Open-source resource designed for educational purposes and available for a detai
 Please contact us via email denodes.core@protonmail.com or fill out the form [here](https://forms.gle/c4mMGyikFUQVJZEA7).
 
 ## Our resources
-[Website](denodes.xyz) **/** [Hub](hub.denodes.xyz) **/** [Twitter](https://twitter.com/_denodes) **/** [Telegram](https://t.me/denodes) **/** [Medium](medium.com/@denodes)
+[Website](https://denodes.xyz) **/** [Hub](https://hub.denodes.xyz) **/** [Twitter](https://twitter.com/_denodes) **/** [Telegram](https://t.me/denodes) **/** [Medium](https://medium.com/@denodes)
 
 ---
 *Regards, deNodes Team!* 🖤
