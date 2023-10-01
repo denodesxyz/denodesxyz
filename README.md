@@ -1,7 +1,7 @@
 # **Welcome to the [deNodes Github](https://github.com/denodesxyz)! 👋**
 
 ## What is deNodes?
-We are proven staking provider and blockchain validator company. We provide technical support and consulting to early-stage blockchain and Web3 startups.
+We are proven blockchain validator and infrastructure provider. We provide technical support and consulting to early-stage blockchain and web3 startups.
 Follow us on our [Twitter](https://twitter.com/_denodes) and visit our [Website](http://denodes.xyz/) for more details.
 
 ## deNodes Hub
