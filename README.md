@@ -15,7 +15,8 @@ Please contact us via email denodes.core@protonmail.com or fill out the form [he
 [Website](https://denodes.xyz) **/** [Hub](https://hub.denodes.xyz) **/** [Twitter](https://twitter.com/_denodes) **/** [Telegram](https://t.me/denodes) **/** [Medium](https://medium.com/@denodes)
 
 ---
-*Regards, deNodes Team!* 🖤
+*Regards, 
+deNodes Team!*
 <!---
 denodesxyz/denodesxyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
