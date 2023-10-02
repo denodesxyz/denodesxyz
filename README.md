@@ -5,7 +5,7 @@ We are proven blockchain validator and infrastructure provider. We provide techn
 Follow us on our [Twitter](https://twitter.com/_denodes) and visit our [Website](http://denodes.xyz/) for more details.
 
 ## deNodes Hub
-Open-source resource designed for educational purposes and available for a detailed dive into the technical part of blockchain. 
+An open-source resource designed for educational purposes, providing a detailed exploration of the technical aspects of early-stage web3 and blockchain projects.
 - Discover more at [deNodes Hub](https://hub.denodes.xyz).
 
 ## Partnerships & Collaborations
