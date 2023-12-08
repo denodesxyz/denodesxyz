@@ -9,7 +9,7 @@ An open-source resource designed for educational purposes, providing a detailed 
 - Discover more at [deNodes Hub](https://hub.denodes.xyz).
 
 ## Partnerships & Collaborations
-Please contact us via email denodes.core@protonmail.com or fill out the form [here](https://forms.gle/c4mMGyikFUQVJZEA7).
+Please contact us via email **core@denodes.xyz** or fill out the form [here](https://forms.gle/c4mMGyikFUQVJZEA7).
 
 ## Our resources
 [Website](https://denodes.xyz) **/** [Hub](https://hub.denodes.xyz) **/** [Twitter](https://twitter.com/_denodes) **/** [Telegram](https://t.me/denodes) **/** [Medium](https://medium.com/@denodes)
