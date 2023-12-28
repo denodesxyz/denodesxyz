@@ -1,15 +1,11 @@
-# **Welcome to the [deNodes Github](https://github.com/denodesxyz)! 👋**
+## **Welcome to the [deNodes GitHub](https://github.com/denodesxyz)!**
 
-deNodes is a proven blockchain validator and infra-service provider. We provide technical support and consulting to early-stage blockchain and web3 startups.
-Follow us on our [X (Twitter)](https://x.com/_denodes) and visit our [Website](http://denodes.xyz/) for more details.
+deNodes is a proven blockchain validator and infra-service provider. With a solid commitment to supporting the growth of early-stage blockchain and web3 startups, we provide a comprehensive range of services that includes technical support, validation services and strategic consultation. 
 
+Stay connected with us by following our [X account](https://x.com/_denodes), and by visiting our official website at [denodes.xyz](http://denodes.xyz/).
 
-### deNodes Hub
-An open-source resource designed for educational purposes, providing a detailed exploration of the technical aspects of early-stage web3 and blockchain projects.
-- Discover more at [deNodes Hub](https://hub.denodes.xyz).
-
-### Partnerships & Collaborations
-Please contact us via email core@denodes.xyz or fill out the form [here](https://forms.gle/c4mMGyikFUQVJZEA7).
+---
+_We’re supporting the Decentralized Future. Let's achieve it together! ✨_
 
 <!---
 denodesxyz/denodesxyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
